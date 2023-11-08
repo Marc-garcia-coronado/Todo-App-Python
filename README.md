@@ -15,3 +15,4 @@ An app thats has been created in python in which you can create, edit, complete,
 - Run Web App
   - Install streamlit pyrhon library.
   - streamlit run web.py
+  - Or go to the [hosted page](https://marcgarcia-todo-app.streamlit.app/)
